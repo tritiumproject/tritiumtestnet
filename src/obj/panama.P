@@ -1,0 +1,2 @@
+obj/panama.o: panama.c sph_panama.h sph_types.h
+panama.c sph_panama.h sph_types.h :

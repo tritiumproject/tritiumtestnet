@@ -1,0 +1,2 @@
+obj/ripemd.o: ripemd.c sph_ripemd.h sph_types.h md_helper.c
+ripemd.c sph_ripemd.h sph_types.h md_helper.c :

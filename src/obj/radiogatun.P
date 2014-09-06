@@ -1,0 +1,2 @@
+obj/radiogatun.o: radiogatun.c sph_radiogatun.h sph_types.h
+radiogatun.c sph_radiogatun.h sph_types.h :

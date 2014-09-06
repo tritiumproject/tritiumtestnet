@@ -1,0 +1,2 @@
+obj/md4.o: md4.c sph_md4.h sph_types.h md_helper.c
+md4.c sph_md4.h sph_types.h md_helper.c :

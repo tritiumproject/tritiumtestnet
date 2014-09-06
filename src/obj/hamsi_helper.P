@@ -1,0 +1,2 @@
+obj/hamsi_helper.o: hamsi_helper.c
+hamsi_helper.c :

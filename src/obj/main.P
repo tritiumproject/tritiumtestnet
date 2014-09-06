@@ -1,0 +1,34 @@
+obj/main.o: main.cpp alert.h uint256.h util.h netbase.h serialize.h \
+ allocators.h version.h clientversion.h compat.h checkpoints.h hash.h \
+ net.h mruset.h limitedmap.h protocol.h addrman.h sync.h threadsafety.h \
+ bloom.h db.h main.h bignum.h script.h keystore.h crypter.h key.h \
+ hashblock.h sph_blake.h sph_types.h sph_md2.h sph_md4.h sph_shabal.h \
+ sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h sph_skein.h sph_luffa.h \
+ sph_cubehash.h sph_shavite.h sph_simd.h sph_echo.h sph_hamsi.h \
+ sph_fugue.h sph_whirlpool.h sph_haval.h sph_md5.h sph_panama.h \
+ sph_radiogatun.h sph_ripemd.h sph_sha0.h sph_sha1.h sph_sha2.h \
+ sph_sha3.h sph_tiger.h txdb.h leveldb.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/db.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/iterator.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/slice.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/status.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/options.h \
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/write_batch.h init.h \
+ wallet.h ui_interface.h walletdb.h base58.h checkqueue.h
+main.cpp alert.h uint256.h util.h netbase.h serialize.h :
+ allocators.h version.h clientversion.h compat.h checkpoints.h hash.h :
+ net.h mruset.h limitedmap.h protocol.h addrman.h sync.h threadsafety.h :
+ bloom.h db.h main.h bignum.h script.h keystore.h crypter.h key.h :
+ hashblock.h sph_blake.h sph_types.h sph_md2.h sph_md4.h sph_shabal.h :
+ sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h sph_skein.h sph_luffa.h :
+ sph_cubehash.h sph_shavite.h sph_simd.h sph_echo.h sph_hamsi.h :
+ sph_fugue.h sph_whirlpool.h sph_haval.h sph_md5.h sph_panama.h :
+ sph_radiogatun.h sph_ripemd.h sph_sha0.h sph_sha1.h sph_sha2.h :
+ sph_sha3.h sph_tiger.h txdb.h leveldb.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/db.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/iterator.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/slice.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/status.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/options.h :
+ /home/liam/QubitCoin/src/leveldb/include/leveldb/write_batch.h init.h :
+ wallet.h ui_interface.h walletdb.h base58.h checkqueue.h :

@@ -1,0 +1,2 @@
+obj/sha0.o: sha0.c sph_sha0.h sph_types.h md_helper.c
+sha0.c sph_sha0.h sph_types.h md_helper.c :

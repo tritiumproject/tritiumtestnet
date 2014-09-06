@@ -1,0 +1,2 @@
+obj/md2.o: md2.c sph_md2.h sph_types.h
+md2.c sph_md2.h sph_types.h :
